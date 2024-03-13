@@ -6,7 +6,9 @@ visionframe is a Python package that allows you to easily extract frames from vi
 
 You can install visionframe via pip:
 
+```
 pip install visionframe
+```
 
 ## Usage
 
