@@ -6,7 +6,7 @@
 
 
 
-Empower Your Computer Vision Projects with VisionFrame: Seamlessly Handle Video and Image
+Empower Your Computer Vision Projects with VisionFrame: Seamlessly Handle Video and Image.
 
 
 ## Table of Contents
